@@ -1,16 +1,12 @@
-# Medical_Insurance-Premium-Prediction
-A supervised machine-learning project to determine optimal insurance premium of a customer.
-
-# Customer-Churn-Prediction
-* Companies usually have a greater focus on customer acquisition and keep retention as a secondary priority. However, it can cost five times more to attract a new customer than it does to retain an existing one. Increasing customer retention rates by 5% can increase profits by 25% to  95%, according to research done by Bain & Company.
-
-* Churn rate is a godsend for any subscription-based business. It’s used by telecom companies to see if enough people are using their phone services. If you want your subscription-based business to grow, the number of customers you get every month needs to be higher than the number of customers who churn.
+# Medical Insurance Premium Charges Prediction
+* With the growing uncertainties in life, it is important to have a financial backup to look after your medical expenses at the time of an emergency without draining your savings. The inflation in the health sector has increased rapidly over the past few years, and therefore affordable health nsurance plans are worthy of your investment.
+* Early health insurance amount prediction can help in better contemplation of the amount needed. Where a person can ensure that the amount he/she is going to opt is justified. Also it can provide an idea about gaining extra benefits from the health insurance.
 
 # Problem Statement
-**In this project, we will examine the data and create a machine learning algorithm that will detect if the customer would churn or not with the help of various features like 'Contract', 'InternetService', 'MultipleLines', 'TotalCharges' and 'tenure', etc. by using different classifiers.**
+**The dataset contains Health Related Parameters of the Customers. Build a Model that predicts the yearly medical insurance cost which can help solve a crucial finance problem that would potentially impact many people and would help them make better decisions.**
 
 
 
 **Successfully build the model, and deployed on streamlit-cloud**
 
-*Link to app:* https://ddatarep27-customer-churn-prediction-deploy-gpoi2t.streamlitapp.com/
+*Link to app:* 
