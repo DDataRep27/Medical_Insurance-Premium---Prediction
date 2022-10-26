@@ -9,4 +9,4 @@
 
 **Successfully build the model, and deployed on streamlit-cloud**
 
-*Link to app:* 
+*Link to app:* https://ddatarep27-medical-insurance-premium---prediction-deploy-2nxgbk.streamlitapp.com/
