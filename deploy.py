@@ -109,14 +109,14 @@ def user_input_features():
         
         if st.button('Predict'):
             with st_lottie_spinner(lottie_process, height=(200), width=(300), quality="high", speed=1):
-                time.sleep(2.1)
+                time.sleep(4)
             st.write("**Result:**")           
             st.warning(f"Your Monthly Premium Charges is ₹{(ml[0]*0.85)/12:,.1f} (inclusive of tax & charges)")
             
             
             with st.expander(label="Would like to go for Annual Premium?"):
                 with st_lottie_spinner(lottie_type, height=(200), width=(400), quality="high", speed=1):
-                    time.sleep(2.13)
+                    time.sleep(4.2)
                 st.success(f"You save ₹{(ml[0]*0.85)*0.035:,.1f}  😃", icon=("🎉"))
                 st.metric(label="Annual Premium Charges  (inclusive of tax & charges)", value = f" ₹{(ml[0]*0.85)*0.965:,.1f}")
            
