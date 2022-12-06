@@ -5,4 +5,7 @@ scikit-learn==1.1.1
 sklearn-pandas==2.2.0
 
 streamlit==1.12.2
-                           
+
+json5==0.9.6 
+
+streamlit-lottie==0.0.3                     
