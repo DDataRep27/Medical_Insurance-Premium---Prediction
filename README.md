@@ -6,7 +6,6 @@
 **The dataset contains Health Related Parameters of the Customers. Build a Model that predicts the yearly medical insurance cost which can help solve a crucial finance problem that would potentially impact many people and would help them make better decisions.**
 
 
-
 **Successfully build the model, and deployed on streamlit-cloud**
 
 *Link to app:* https://ddatarep27-medical-insurance-premium---prediction-deploy-2nxgbk.streamlitapp.com/
